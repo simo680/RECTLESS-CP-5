@@ -5,7 +5,7 @@ import {
   decrementCount,
   removeFromCart,
   addToCart,
-} from "../../store/productReducer";
+} from "../store/productReducer";
 import { useDispatch, useSelector } from "react-redux";
 import { useEffect } from "react";
 
